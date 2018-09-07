@@ -1,0 +1,90 @@
+2018-08-31T16:55:09.467 : createItem:  ItemName: Book01 |CostPrice: 10.500 |sellingPrice: 13.79 |Quantity: 67
+2018-08-31T18:42:15.170 : removeItem: Book01
+2018-08-31T20:04:37.353 : createItem:  ItemName: Book01 |CostPrice: 12.50 |sellingPrice: 14.34 |Quantity: 10
+2018-08-31T22:45:58.084 : createItem:  ItemName: Food01 |CostPrice: 13.123 |sellingPrice: 15.678 |Quantity: 13
+2018-08-31T23:13:28.365 : createItem:  ItemName: Book01 |CostPrice: 12.345 |sellingPrice: 15.567 |Quantity: 10
+2018-08-31T23:22:46.520 : createItem:  ItemName: Food01 |CostPrice: 10.5 |sellingPrice: 12.345 |Quantity: 20
+2018-08-31T23:30:11.176 : createItem:  ItemName: Book01 |CostPrice: 11 |sellingPrice: 15 |Quantity: 20
+2018-08-31T23:48:24 : createItem:  ItemName: Fo0d01 |CostPrice: 13 |sellingPrice: 16 |Quantity: 10
+2018-08-31T23:50:24.192 : createItem:  ItemName: Book01 |CostPrice: 12 |sellingPrice: 15 |Quantity: 20
+2018-08-31T23:50:51.046 : removeItem: Fo0d01
+2018-08-31T23:51:09.379 : removeItem: Fo0d01
+2018-08-31T23:54:47.104 : removeItem: Fo0d01
+2018-08-31T23:55:00.625 : removeItem: Book01
+2018-09-01T00:07:20.879 : removeItem: Fo0d01
+2018-09-01T00:07:46.381 : createItem:  ItemName: Book01 |CostPrice: 12 |sellingPrice: 13 |Quantity: 10
+2018-09-01T00:08:24.274 : createItem:  ItemName: Food01 |CostPrice: 13 |sellingPrice: 14 |Quantity: 20
+2018-09-01T00:11:31.130 : removeItem: Food01
+2018-09-01T00:11:59.154 : createItem:  ItemName: Food01 |CostPrice: 12 |sellingPrice: 15 |Quantity: 15
+2018-09-01T00:12:31.026 : createItem:  ItemName: Med01 |CostPrice: 10.5 |sellingPrice: 12.756 |Quantity: 25
+2018-09-01T00:12:57.892 : removeItem: Med01
+2018-09-01T10:35:03.498 : createItem:  ItemName: Med01 |CostPrice: 10.99 |sellingPrice: 13.987 |Quantity: 30
+2018-09-01T10:36:16.886 : createItem:  ItemName: Book01 |CostPrice: 12.23 |sellingPrice: 15 |Quantity: 20
+2018-09-01T10:45:02.271 : createItem:  ItemName: Food01 |CostPrice: 3 |sellingPrice: 5 |Quantity: 25
+2018-09-01T10:50:47.410 : createItem:  ItemName: Book01 |CostPrice: 5 |sellingPrice: 6 |Quantity: 35
+2018-09-01T11:03:39.656 : createItem:  ItemName: Food |CostPrice: 3 |sellingPrice: 5 |Quantity: 35
+2018-09-01T11:13:12.596 : createItem:  ItemName: Book01 |CostPrice: 12 |sellingPrice: 13 |Quantity: 30
+2018-09-01T11:25:03.008 : createItem:  ItemName: Food |CostPrice: 2 |sellingPrice: 5 |Quantity: 33
+2018-09-01T11:28:33.431 : createItem:  ItemName: Book01 |CostPrice: 2 |sellingPrice: 5 |Quantity: 55
+2018-09-01T11:52:33.806 : createItem:  ItemName: Book01 |CostPrice: 23 |sellingPrice: 30 |Quantity: 25
+2018-09-01T11:52:53.399 : createItem:  ItemName: Food01 |CostPrice: 3 |sellingPrice: 5 |Quantity: 20
+2018-09-01T11:53:49.818 : createItem:  ItemName: Med01 |CostPrice: 7 |sellingPrice: 7 |Quantity: 12
+2018-09-01T11:55:19.615 : createItem:  ItemName: Book |CostPrice: 3 |sellingPrice: 5 |Quantity: 55
+2018-09-01T11:55:34.082 : createItem:  ItemName: Food |CostPrice: 5 |sellingPrice: 7 |Quantity: 55
+2018-09-01T12:08:33.586 : createItem:  ItemName: Med01 |CostPrice: 5 |sellingPrice: 9 |Quantity: 10
+2018-09-01T12:09:08.389 : removeItem: Book
+2018-09-02T00:09:53.448 : removeItem: Med01
+2018-09-02T00:10:54.378 : createItem:  ItemName: Tab01 |CostPrice: 4 |sellingPrice: 6 |Quantity: 66
+2018-09-02T00:13:17.092 : removeItem: Food
+2018-09-02T00:14:00.649 : createItem:  ItemName: Book01 |CostPrice: 3 |sellingPrice: 5 |Quantity: 55
+2018-09-02T00:14:18.580 : removeItem: Book01
+2018-09-02T00:17:56.185 : createItem:  ItemName: book01 |CostPrice: 3 |sellingPrice: 6 |Quantity: 33
+2018-09-02T00:18:13.059 : removeItem: book01
+2018-09-02T00:22:19.374 : createItem:  ItemName: food01 |CostPrice: 2 |sellingPrice: 5 |Quantity: 10
+2018-09-02T00:22:42.823 : createItem:  ItemName: book |CostPrice: 4 |sellingPrice: 6 |Quantity: 55
+2018-09-02T00:23:03.665 : removeItem: food01
+2018-09-02T00:24:15.436 : createItem:  ItemName: med |CostPrice: 4 |sellingPrice: 5 |Quantity: 55
+2018-09-02T00:24:27.637 : removeItem: med
+2018-09-02T00:25:11.280 : createItem:  ItemName: med |CostPrice: 2 |sellingPrice: 3 |Quantity: 10
+2018-09-02T00:25:27.130 : removeItem: med
+2018-09-02T00:26:10.326 : removeItem: book
+2018-09-02T00:29:34.850 : createItem:  ItemName: book |CostPrice: 3 |sellingPrice: 5 |Quantity: 20
+2018-09-02T00:29:50.889 : createItem:  ItemName: food |CostPrice: 1 |sellingPrice: 2 |Quantity: 10
+2018-09-02T00:30:11.094 : removeItem: food
+2018-09-02T00:30:32.673 : createItem:  ItemName: med |CostPrice: 5 |sellingPrice: 6 |Quantity: 50
+2018-09-02T00:31:26.579 : createItem:  ItemName: tab |CostPrice: 3 |sellingPrice: 5 |Quantity: 33
+2018-09-02T00:31:54.412 : createItem:  ItemName: med |CostPrice: 2 |sellingPrice: 3 |Quantity: 20
+2018-09-02T00:32:10.050 : removeItem: med
+2018-09-02T00:39:22.788 : createItem:  ItemName: book |CostPrice: 3 |sellingPrice: 5 |Quantity: 30
+2018-09-02T00:39:44.465 : removeItem: food
+2018-09-02T00:40:28.569 : createItem:  ItemName: food |CostPrice: 1 |sellingPrice: 2 |Quantity: 10
+2018-09-02T00:40:41.077 : createItem:  ItemName: tab |CostPrice: 5 |sellingPrice: 6 |Quantity: 40
+2018-09-02T00:41:03.103 : removeItem: book
+2018-09-02T00:41:31.976 : removeItem: tab
+2018-09-02T00:51:50.578 : createItem:  ItemName: book |CostPrice: 3 |sellingPrice: 4 |Quantity: 33
+2018-09-02T00:52:37.100 : createItem:  ItemName: med |CostPrice: 2 |sellingPrice: 5 |Quantity: 40
+2018-09-02T00:52:51.605 : removeItem: med
+2018-09-02T00:53:40.685 : removeItem: book
+2018-09-02T01:15:40.794 : createItem:  ItemName: tab |CostPrice: 1 |sellingPrice: 2 |Quantity: 12
+2018-09-02T01:15:57.794 : createItem:  ItemName: med |CostPrice: 2 |sellingPrice: 3 |Quantity: 13
+2018-09-02T01:16:06.453 : removeItem: tab
+2018-09-02T01:16:56.957 : removeItem: med
+2018-09-02T01:20:39.796 : createItem:  ItemName: book |CostPrice: 4 |sellingPrice: 5 |Quantity: 23
+2018-09-02T01:21:04.513 : createItem:  ItemName: food |CostPrice: 1 |sellingPrice: 2 |Quantity: 11
+2018-09-02T01:21:19.233 : removeItem: book
+2018-09-02T10:48:39.834 : removeItem: food
+2018-09-02T10:55:35.320 : createItem:  ItemName: Book01 |CostPrice: 10.50 |sellingPrice: 13.79 |Quantity: 100
+2018-09-02T10:56:24.637 : createItem:  ItemName: Food01 |CostPrice: 1.47 |sellingPrice: 3.98 |Quantity: 498
+2018-09-02T10:57:12.106 : createItem:  ItemName: Med01 |CostPrice: 30.63 |sellingPrice: 34.29 |Quantity: 100
+2018-09-02T10:59:21.288 : removeItem: Book01
+2018-09-02T11:02:46.849 : createItem:  ItemName: Food01 |CostPrice: 12 |sellingPrice: 13 |Quantity: 23
+2018-09-02T11:17:23.274 : createItem:  ItemName: Book01 |CostPrice: 2 |sellingPrice: 3 |Quantity: 23
+2018-09-02T11:17:41.841 : removeItem: Book01
+2018-09-02T11:18:02.712 : createItem:  ItemName: Food01 |CostPrice: 1 |sellingPrice: 2 |Quantity: 22
+2018-09-02T11:23:40.553 : createItem:  ItemName: Tab01 |CostPrice: 3 |sellingPrice: 5 |Quantity: 40
+2018-09-02T11:27:21.371 : createItem:  ItemName: Book01 |CostPrice: 4 |sellingPrice: 6 |Quantity: 40
+2018-09-02T11:30:50.610 : createItem:  ItemName: Tab01 |CostPrice: 12 |sellingPrice: 29 |Quantity: 30
+2018-09-02T11:40:59.371 : createItem:  ItemName: vood |CostPrice: 1 |sellingPrice: 1 |Quantity: 2
+2018-09-02T11:41:18.870 : createItem:  ItemName: dodo |CostPrice: 2 |sellingPrice: 3 |Quantity: 33
+2018-09-02T11:41:57.472 : removeItem: Book01
+

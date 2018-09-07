@@ -1,0 +1,17 @@
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/dao/ItemPersistenceException.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/dao/ItemAuditDao.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/dao/ItemAuditDaoFileImpl.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/dao/ItemDaoFileImpl.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/advice/LoggingAdvice.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/service/ItemServiceLayer.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/dao/ItemDaoStubImpl.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/ui/ItemView.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/dao/ItemAuditDaoStubImpl.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/dto/Item.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/ui/UserIOConsoleImpl.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/dao/ItemDao.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/ui/UserIO.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/App.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/service/ItemDataValidationException.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/service/ItemServiceLayerImpl.java
+/Users/sonia/Desktop/inventorySystem/src/main/java/com/mycompany/inventorysystem/controller/ItemController.java
